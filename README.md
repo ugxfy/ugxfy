@@ -2,7 +2,7 @@
 - 👀 I’m interested in web 3
 - 🌱 I’m currently learning javascript, python & solidity
 - 💞️ I’m looking to collaborate on a one stop centre for all things crypto in east africa
-- 📫 How to reach me ...tawfiqtb@gmail.com
+- 📫 How to reach me ...ugxfied@gmail.com
 
 <!---
 ugxfy/ugxfy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
